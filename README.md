@@ -1,7 +1,7 @@
-## Project 3 - Machine Learning II - Bike Share (Washington DC)
+## Machine Learning - Bike Share (Washington DC)
 
-- In this project, it was our intention to delve deeper into the machine learning with a new kaggle dataset.
-- We used cross-validation on several models to find the optimal model, then using grid-serach to tweek the hyperparameters.
+- In this project, it was my intention to delve deeper into the machine learning with a new kaggle dataset.
+- Cross-validation on several models was used to find the optimal model, followed by grid-search to tweek the hyperparameters.
 - Our aim was to find the number of bikes needed daily with respect to data of the past 2 years. 
 - Attributes were 
         - weather, 
